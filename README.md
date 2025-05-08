@@ -6,19 +6,23 @@ Built with scalability and security in mind, this API uses **JWT authentication*
 
 ## 🚀 Features
 
-- 🔐 JWT-based User Authentication
-- 🧠 Business Logic for Subscriptions
-- 🗂️ Role-based Access Control (Admin/User)
-- 🧾 Payment Integration Ready (e.g., Stripe/Razorpay)
-- 📦 Scalable Folder Structure (MVC/Modular)
-- 🔄 CRUD Operations for Plans & Subscriptions
-- 🧱 ORM Integration (e.g., Sequelize/Prisma/TypeORM)
-- 📊 Dashboard-ready Endpoints for Admin Analytics
+👉 Advanced Rate Limiting and Bot Protection: with Arcjet that helps you secure the whole app.
+
+👉 Database Modeling: Models and relationships using MongoDB & Mongoose.
+
+👉 JWT Authentication: User CRUD operations and subscription management.
+
+👉 Global Error Handling: Input validation and middleware integration.
+
+👉 Logging Mechanisms: For better debugging and monitoring.
+
+👉 Email Reminders: Automating smart email reminders with workflows using Upstash.
+
+and many more, including code architecture and reusability
 
 ## 📂 Tech Stack
 
 - **Node.js** / **Express.js**
-- **PostgreSQL** / **MongoDB**
-- **Sequelize** / **Prisma**
+- **MongoDB**
 - **JWT** for Authentication
-- **Docker** (optional for containerization)
+  
